@@ -1,0 +1,26 @@
+body
+{
+	background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+.container
+{
+	text-align: center;
+	
+	padding-top: 60px;
+	
+	padding-left: 100px;
+	
+	padding-right: 100px;
+	
+	font-size: 3em;
+	
+	margin-top: 100px;
+	
+	width: 1000px;
+	
+	height: 500px;
+	
+	background-color: #f4e04d;
+}
+
